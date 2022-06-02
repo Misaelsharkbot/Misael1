@@ -23,9 +23,116 @@ import formData from 'form-data'
 import fetch from 'node-fetch'
 import cheerio from 'cheerio'
 var effects = [
+    {
+    "title": "neon-light-blackpink-logo",
+    "url": "https://textpro.me/create-neon-light-blackpink-logo-text-effect-online-1081.html"
+    },
+    {
+    "title": "blackpink-logo",
+    "url": "https://textpro.me/create-a-blackpink-logo-decorated-with-roses-online-free-1080.html"
+    {
+    "title": "create-blackpink-style",
+    "url": "https://textpro.me/create-blackpink-style-logo-effects-online-1079.html"
+    },
+    {
+    "title": "3d-business-sign",
+    "url": "https://textpro.me/3d-business-sign-text-effect-1078.html"
+    },  
+     {
+    "title": "create-a-quick-sparkling-diamonds",
+    "url": "https://textpro.me/create-a-quick-sparkling-diamonds-text-effect-1077.html"
+    },
+    {
+    "title": "create-a-summer-neon-light",
+    "url": "https://textpro.me/create-a-summer-neon-light-text-effect-online-1076.html"
+    {
+    "title": "free-creative-3d-golden",
+    "url": "https://textpro.me/free-creative-3d-golden-text-effect-online-1075.html"
+    },
+    {
+    "title": "create-carved-stone",
+    "url": "https://textpro.me/create-carved-stone-text-effect-online-1074.html"
+    {
+    "title": "create-a-3d-stone",
+    "url": "https://textpro.me/create-a-3d-stone-text-effect-online-for-free-1073.html"
+    },
+    {
+    "title": "create-3d-style-glass",
+    "url": "https://textpro.me/create-3d-style-glass-text-effect-online-1072.html"
+    },
+    {
+    "title": "create-a-3d-luxury-metallic",
+    "url": "https://textpro.me/create-a-3d-luxury-metallic-text-effect-for-free-1071.html"
+    {
+    "title": "elegant-white-gold-3d",
+    "url": "https://textpro.me/elegant-white-gold-3d-text-effect-online-free-1070.html"
+    },
+    {
+    "title": "create-3d-giraffe",
+    "url": "https://textpro.me/create-3d-giraffe-text-effect-online-1069.html"
+    {
+    "title": "create-light-glow-sliced",
+    "url": "https://textpro.me/create-light-glow-sliced-text-effect-online-1068.html"
+    },
+    {
+    "title": "create-text-effects-arcane-tv-series",
+    "url": "https://textpro.me/create-text-effects-arcane-tv-series-online-1067.html"
+    {
+    "title": "make-a-batman",
+    "url": "https://textpro.me/make-a-batman-logo-online-free-1066.html"
+    },
+    {
+    "title": "create-3d-retro",
+    "url": "https://textpro.me/create-3d-retro-text-effect-online-free-1065.html"
+    },  
+    {
+    "title": "create-thor-logo-style",
+    "url": "https://textpro.me/create-thor-logo-style-text-effect-online-1064.html"
+    },
+    {
+    "title": "neon-light-glitch",
+    "url": "https://textpro.me/neon-light-glitch-text-generator-online-1063.html"
+    {
+    "title": "create-neon-light-on-brick-wall",
+    "url": "https://textpro.me/create-neon-light-on-brick-wall-online-1062.html"
+    },
+    {
+    "title": "create-glowing-neon-light",
+    "url": "https://textpro.me/create-glowing-neon-light-text-effect-online-free-1061.html"
+    {
+    "title": "3d-golden-ancient",
+    "url": "https://textpro.me/3d-golden-ancient-text-effect-online-free-1060.html"
+    },
+    {
+    "title": "color-led-display-screen",
+    "url": "https://textpro.me/color-led-display-screen-text-effect-1059.html"
+    {
+    "title": "happy-new-year-2022-greeting-3d-card",
+    "url": "https://textpro.me/happy-new-year-2022-greeting-3d-card-1058.html"
+    },
+    {
+    "title": "christmas-tree",
+    "url": "https://textpro.me/christmas-tree-text-effect-online-free-1057.html"
+    },  
+    {
+    "title": "create-christmas-candy-cane",
+    "url": "https://textpro.me/create-christmas-candy-cane-text-effect-1056.html"
+    },
+    {
+    "title": "3d-christmas",
+    "url": "https://textpro.me/3d-christmas-text-effect-by-name-1055.html"
+    },
+    {
+    "title": "sparkles-merry-christmas",
+    "url": "https://textpro.me/sparkles-merry-christmas-text-effect-1054.html"
+  },
   {
     "title": "3d-deep-sea-metal",
     "url": "https://textpro.me/create-3d-deep-sea-metal-text-effect-online-1053.html"
+  },
+  {
+    "title": "free-online-country-flag-3d",
+    "url": "https://textpro.me/free-online-country-flag-3d-text-effect-generator-1052.html"
   },
   {
     "title": "American-flag-3D",
