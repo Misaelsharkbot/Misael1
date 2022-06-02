@@ -26,16 +26,15 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
 ✦ 𝙐𝙍𝙇
 ✦ ${url}
 ╰━━━━━━━❰ *${vs}* ❱━━━━━━⬣`.trim(), wm, thumbnail, '', '', null, null, [
-    ['𝙑𝙞𝙙𝙚𝙤 | 1️⃣', `${usedPrefix}ytv ${url} yes`],
-    ['𝙑𝙞𝙙𝙚𝙤 | 2️⃣', `${usedPrefix}play.2 ${url} yes`],
-    ['𝘼𝙪𝙙𝙞𝙤 | 1️⃣', `${usedPrefix}yta ${url} yes`]
+    ['𝙑𝙞𝙙𝙚𝙤 🎥', `${usedPrefix}ytv ${url} yes`],
+    ['𝘼𝙪𝙙𝙞𝙤 🎧', `${usedPrefix}yta ${url} yes`]
   ], m)
-    let info = `💝 𝙏𝘼𝙈𝘽𝙄𝙀𝙉 𝙋𝙐𝙀𝘿𝙀 𝙄𝙉𝙏𝙀𝙍𝙀𝙎𝘼𝙍𝙇𝙀.
+    let info = `𝙀𝙣 𝙙𝙤𝙘𝙪𝙢𝙚𝙣𝙩𝙤
 `.trim()  
 await conn.sendHydrated(m.chat, info, wm, thumbnail, ig, '𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢', null, null, [
-['𝘼𝙪𝙙𝙞𝙤 | 2️⃣', `${usedPrefix}play.1 ${url} yes`],
-['𝘽𝙪𝙨𝙘𝙖𝙧 | 𝙎𝙚𝙖𝙧𝙘𝙝 | 🌐', `.ytsearch ${url} yes`],
-['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', `/menu`]
+['𝙑𝙞𝙙𝙚𝙤 🎥', `${usedPrefix}ytv.2 ${url} yes`],
+['𝘼𝙪𝙙𝙞𝙤 🎧', `${usedPrefix}yta.2 ${url} yes`] 
+['𝘽𝙪𝙨𝙘𝙖𝙧 | 𝙎𝙚𝙖𝙧𝙘𝙝 | 🌐', `.ytsearch ${url} yes`]
 ], m,)
     
 }catch(e){
