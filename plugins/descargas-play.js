@@ -33,8 +33,8 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
 `.trim()  
 await conn.sendHydrated(m.chat, info, wm, thumbnail, ig, '𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢', null, null, [
 ['𝙑𝙞𝙙𝙚𝙤 🎥', `${usedPrefix}ytv.2 ${url} yes`],
-['𝘼𝙪𝙙𝙞𝙤 🎧', `${usedPrefix}yta.2 ${url} yes`] 
-['𝘽𝙪𝙨𝙘𝙖𝙧 | 𝙎𝙚𝙖𝙧𝙘𝙝 | 🌐', `.ytsearch ${url} yes`]
+['𝘼𝙪𝙙𝙞𝙤 🎧', `${usedPrefix}yta.2 ${url} yes`],
+['𝘽𝙪𝙨𝙘𝙖𝙧🌐', `.ytsearch ${url} yes`]
 ], m,)
     
 }catch(e){
