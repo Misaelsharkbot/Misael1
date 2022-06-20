@@ -24,6 +24,14 @@ import fetch from 'node-fetch'
 import cheerio from 'cheerio'
 var effects = [
     {
+    "title": "create-a-summer-text-effect",
+    "url": "https://textpro.me/create-a-summer-text-effect-with-a-palm-tree-1083.html"
+    },   
+    {
+    "title": "create-realistic-golden",
+    "url": "https://textpro.me/create-realistic-golden-text-effect-on-red-sparkles-online-1082.html"
+    },
+    {
     "title": "neon-light-blackpink-logo",
     "url": "https://textpro.me/create-neon-light-blackpink-logo-text-effect-online-1081.html"
    },
