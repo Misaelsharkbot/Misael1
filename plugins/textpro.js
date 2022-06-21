@@ -9,14 +9,14 @@ const sections = [
    {
 	title: "TIPOS DE logos",
 	rows: [
-	    {title: ".textpro create-a-summer-text-effect", rowId: ".textpro create-a-summer-text-effect " + args[0] + ""},
+	    {title: ".textpro create-a-summer", rowId: ".textpro create-a-summer " + args[0] + ""},
 	    {title: ".textpro create-realistic-golden", rowId: ".textpro create-realistic-golden " + args[0] + ""},
 	    {title: ".textpro neon-light-blackpink-logo", rowId: ".textpro neon-light-blackpink-logo " + args[0] + ""},
 	    {title: ".textpro blackpink-logo", rowId: ".textpro blackpink-logo " + args[0] + ""},
 	    {title: ".textpro create-blackpink-style", rowId: ".textpro create-blackpink-style " + args[0] + ""},
-	    {title: ".textpro 3d-business-sign", rowId: ".textpro 3d-business-sign " + args[0] + ""},
-	    {title: ".textpro create-a-quick-sparkling-diamonds", rowId: ".textpro create-a-quick-sparkling-diamonds " + args[0] + ""},
-	    {title: ".textpro create-a-summer-neon-light", rowId: ".textpro create-a-summer-neon-light " + args[0] + ""},
+	    {title: ".textpro 3d-business", rowId: ".textpro 3d-business " + args[0] + ""},
+	    {title: ".textpro create-diamonds", rowId: ".textpro create-diamonds " + args[0] + ""},
+	    {title: ".textpro create-a-summer-neon", rowId: ".textpro create-a-summer-neon " + args[0] + ""},
 	    {title: ".textpro free-creative-3d-golden", rowId: ".textpro free-creative-3d-golden " + args[0] + ""},
 	    {title: ".textpro create-carved-stone", rowId: ".textpro create-carved-stone " + args[0] + ""},
 	    {title: ".textpro create-a-3d-stone", rowId: ".textpro create-a-3d-stone " + args[0] + ""},
